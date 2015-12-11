@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notificaciones</string>
+    <string name="action_settings">Settings</string>
+    <string name="notificacion">Enviar notificación</string>
+	<string name="alerta">Enviar diálogo alerta</string>
+	<string name="seleccion">Enviar diálogo selección</string>
+	<string name="confirmacion">Enviar diálogo confirmación</string>
+	<string name="personal">Enviar diálogo personal</string>
+	<string name="dialogo1">Primera línea</string>
+	<string name="dialogo2">Contenido 2</string>
+	
+
+</resources>
